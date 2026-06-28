@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/Dimitrovivo-rgb/tvvision-updates/releases/download/v1.0.0/TvVision.apk",
-  "changelog": "Първа тестова версия на TV Vision."
+  "versionCode": 2,
+  "versionName": "1.0.2",
+  "apkUrl": "https://github.com/Dimitrovivo-rgb/tvvision-updates/releases/download/1.0.1/TvVision.apk",
+  "changelog": "Тест на update системата."
 }
